@@ -1,0 +1,11 @@
+Mytuple = ("ordered", "unchangeable", "Allow-duplicate") - OUA
+List items are ordered, changeable, and allow duplicate values.
+MyList = ["ordered", "changeable", "Allow-duplicate"] - OCA
+thisdict = {"brand": "Ford","model": "Mustang", "year": 1964}
+List is a collection which is ordered and changeable.Allows duplicate.
+Tuple is a collection which is ordered and unchangeable.Allow-duplicate.
+Set is a collection which is unordered,unchangeable,unindexed.no-duplicate.
+Dictionary is a collection which is ordered and changeable.No duplicate.
+
+
+
